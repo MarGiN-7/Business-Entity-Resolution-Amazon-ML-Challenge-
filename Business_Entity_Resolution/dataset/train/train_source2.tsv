@@ -1,0 +1,81 @@
+entity_id	business_name	business_address	country
+S2-00001	Globex Industries Ltd	456 Oak Avenue, Los Angeles, CA 90001	US
+S2-00002	Initech Private Limited	789 Park Road, Bengaluru, Karnataka 560001	India
+S2-00003	Umbrella Corp	321 Elm St, Chicago, IL 60601	US
+S2-00004	Stark Industries Inc	1000 Broadway, San Francisco, CA 94105	US
+S2-00005	Wayne Enterprises	1007 Mountain Drive, Gotham, NJ 07001	US
+S2-00006	Pied Piper Inc	5230 Newell Road, Palo Alto, CA 94301	US
+S2-00007	Hooli Corporation	1 Hooli Way, Mountain View, CA 94043	US
+S2-00008	Tata Consultancy Services	Bandra Kurla Complex, Mumbai, Maharashtra 400051	India
+S2-00009	Infosys Limited	Electronics City, Hosur Road, Bengaluru 560100	India
+S2-00010	Wipro Pvt Ltd	Sarjapur Road, Bengaluru, Karnataka 560035	India
+S2-00011	Reliance Industries	Maker Chambers IV, Nariman Point, Mumbai 400021	India
+S2-00012	Soylent Corp	450 Sansome St, San Francisco, CA 94111	US
+S2-00013	Cyberdyne Systems	18144 El Camino Real, Sunnyvale, CA 94087	US
+S2-00014	Tyrell Corp	Los Angeles, CA	US
+S2-00015	Massive Dynamic	2425 George Washington Memorial Hwy, Boston, MA 02134	US
+S2-00016	Dunder Mifflin Paper Company	1725 Slough Avenue, Scranton, PA 18503	US
+S2-00017	Los Pollos Hermanos	12000 – 12100 Coors Blvd, Albuquerque, NM 87121	US
+S2-00018	Sterling Cooper	1271 Avenue of the Americas, New York, NY 10020	US
+S2-00019	Bluth Co	1 Lucille Lane, Newport Beach, CA 92663	US
+S2-00020	Oscar & Gomez Associates	40 Rue du Faubourg Saint-Honore, Paris 75008	France
+S2-00021	Bistro Chez Pierre SARL	12 Avenue des Champs Elysees, Paris 75008	France
+S2-00022	Fromage Fort SA	8 Rue de la Paix, Lyon 69002	France
+S2-00023	La Boulangerie du Village	25 Grande Rue, Marseille 13001	France
+S2-00024	Eiffel Tech Solutions	48 Rue de Rivoli, Paris 75004	France
+S2-00025	Acme Corporation	123 Main Street, New York, NY 10001	US
+S2-00026	Globex Industries Ltd	456 Oak Avenue, Los Angeles, CA 90001	US
+S2-00027	Initech Private Limited	789 Park Road, Bengaluru, Karnataka 560001	India
+S2-00028	Umbrella Corp	321 Elm St, Chicago, IL 60601	US
+S2-00029	Stark Industries Inc	1000 Broadway, San Francisco, CA 94105	US
+S2-00030	Wayne Enterprises	1007 Mountain Drive, Gotham, NJ 07001	US
+S2-00031	Pied Piper Inc	5230 Newell Road, Palo Alto, CA 94301	US
+S2-00032	Hooli Corporation	1 Hooli Way, Mountain View, CA 94043	US
+S2-00033	Tata Consultancy Services	Bandra Kurla Complex, Mumbai, Maharashtra 400051	India
+S2-00034	Infosys Limited	Electronics City, Hosur Road, Bengaluru 560100	India
+S2-00035	Wipro Pvt Ltd	Sarjapur Road, Bengaluru, Karnataka 560035	India
+S2-00036	Reliance Industries	Maker Chambers IV, Nariman Point, Mumbai 400021	India
+S2-00037	Soylent Corp	450 Sansome St, San Francisco, CA 94111	US
+S2-00038	Cyberdyne Systems	18144 El Camino Real, Sunnyvale, CA 94087	US
+S2-00039	Tyrell Corporation	Los Angeles, CA	US
+S2-00040	Massive Dynamic	2425 George Washington Memorial Hwy, Boston, MA 02134	US
+S2-00041	Dunder Mifflin Paper Company	1725 Slough Avenue, Scranton, PA 18503	US
+S2-00042	Los Pollos Hermanos	12000 – 12100 Coors Blvd, Albuquerque, NM 87121	US
+S2-00043	Sterling Cooper	1271 Avenue of the Americas, New York, NY 10020	US
+S2-00044	Bluth Company	1 Lucille Lane, Newport Beach, CA 92663	US
+S2-00045	Oscar and Gomez Associates	40 Rue du Faubourg Saint-Honore, Paris 75008	France
+S2-00046	Bistro Chez Pierre SARL	12 Avenue des Champs Elysees, Paris 75008	France
+S2-00047	Fromage Fort SA	8 Rue de la Paix, Lyon 69002	France
+S2-00048	La Boulangerie du Village	25 Grande Rue, Marseille 13001	France
+S2-00049	Eiffel Tech Solutions	48 Rue de Rivoli, Paris 75004	France
+S2-00050	Acme Corporation	123 Main Street, New York, NY 10001	US
+S2-00051	Globex Industries Ltd	456 Oak Avenue, Los Angeles, CA 90001	US
+S2-00052	Initech Private Limited	789 Park Road, Bengaluru, Karnataka 560001	India
+S2-00053	Umbrella Corp	321 Elm St, Chicago, IL 60601	US
+S2-00054	Stark Industries Inc	1000 Broadway, San Francisco, CA 94105	US
+S2-00055	Wayne Enterprises	1007 Mountain Drive, Gotham, NJ 07001	US
+S2-00056	Pied Piper Inc	5230 Newell Road, Palo Alto, CA 94301	US
+S2-00057	Hooli Corporation	1 Hooli Way, Mountain View, CA 94043	US
+S2-00058	Tata Consultancy Services	Bandra Kurla Complex, Mumbai, Maharashtra 400051	India
+S2-00059	Infosys Limited	Electronics City, Hosur Road, Bengaluru 560100	India
+S2-00060	Wipro Pvt Ltd	Sarjapur Road, Bengaluru, Karnataka 560035	India
+S2-00061	Reliance Industries	Maker Chambers IV, Nariman Point, Mumbai 400021	India
+S2-00062	Soylent Corp	450 Sansome St, San Francisco, CA 94111	US
+S2-00063	Cyberdyne Systems	18144 El Camino Real, Sunnyvale, CA 94087	US
+S2-00064	Tyrelloration	Los Angeles, CA	US
+S2-00065	Massive Dynamic	2425 George Washington Memorial Hwy, Boston, MA 02134	US
+S2-00066	Dunder Mifflin Paper Company	1725 Slough Ave, Scranton, PA 18503	US
+S2-00067	Los Pollos Hermanos	12000 – 12100 Coors Blvd, Albuquerque, NM 87121	US
+S2-00068	Sterling Cooper	1271 Avenue of the Americas, New York, NY 10020	US
+S2-00069	Bluth Company	1 Lucille Lane, Newport Beach, CA 92663	US
+S2-00070	Oscar & Gomez Associates	40 Rue du Faubourg Saint-Honore, Paris 75008	France
+S2-00071	Bistro Chez Pierre SARL	12 Ave des Champs Elysees, Paris 75008	France
+S2-00072	Fromage Fort SA	8 Rue de la Paix, Lyon 69002	France
+S2-00073	La Boulangerie du Village	25 Grande Rue, Marseille 13001	France
+S2-00074	Eiffel Tech Solutions	48 Rue de Rivoli, Paris 75004	France
+S2-00075	Acme Corporation	123 Main Street, New York, NY 10001	US
+S2-00076	Globex Industries Ltd	456 Oak Ave, Los Angeles, CA 90001	US
+S2-00077	Initech Private Limited	789 Park Road, Bengaluru, Karnataka 560001	India
+S2-00078	Umbrella Corp	Chicago, IL 60601	US
+S2-00079	Stark Industries Inc	1000 Broadway, San Francisco, CA 94105	US
+S2-00080	Wayne Enterprises	1007 Mountain Drive, Gotham, NJ 07001	US
